@@ -1,6 +1,6 @@
 # Hewo there
 
-Hey, you're finally awake. Cool! This here is designed for you to know how exactly I am.
+Hey, you're finally awake. Cool! This here is designed for you to know who exactly I am.
 
 
 ## Who am I?
