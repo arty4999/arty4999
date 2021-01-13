@@ -22,3 +22,5 @@ Of course! My official funding links are here:
 - [PayPal](https://paypal.me/art3mi5)
 
 Giving my projects stars also helps! It means a lot to me when people stop by and they think its excellent, so don't shy away giving stars if you think I'm doing well.
+
+<img src="https://github.com/pitu/pitu/blob/master/picture.png" width="300" />
